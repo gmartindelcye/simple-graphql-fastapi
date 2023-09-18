@@ -1,0 +1,4 @@
+fastapi
+httpie
+strawberry-graphql
+uvicorn
